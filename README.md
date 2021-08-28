@@ -1,0 +1,2 @@
+# C_Programming_Youtube
+YouTubeの動画で解説したC言語・プログラムのコードがあります
